@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Tech School favicon">
+  <rect width="64" height="64" fill="#18211d"/>
+  <path d="M16 19h32M32 19v28" fill="none" stroke="#f7f3eb" stroke-width="5" stroke-linecap="square"/>
+  <circle cx="48" cy="45" r="4" fill="#c58e36"/>
+</svg>
